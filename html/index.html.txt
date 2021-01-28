@@ -1,0 +1,7 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#omeNxE3lEUq1SDWTxvi45A" alt="Avatar thailand" border ="0">
+<map name="omeNxE3lEUq1SDWTxvi45A">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->
