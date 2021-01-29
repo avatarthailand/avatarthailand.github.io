@@ -1,0 +1,7 @@
+<!--START CLICKABLE IMAGEMAP-->
+<div style="text-align : center;">
+<img src="index.jpg" usemap="#t6OrzeJnk6tGR2jNSqw" alt="Phase" border ="0">
+<map name="t6OrzeJnk6tGR2jNSqw">
+</map>
+</div>
+<!--END CLICKABLE IMAGEMAP-->
